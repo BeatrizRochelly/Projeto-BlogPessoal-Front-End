@@ -10,7 +10,7 @@ ul.social-network li{
 }
 
 .bg{
-    background-color:#66CDAA;
+    background-color:#008B8B;
 
 }
 
@@ -38,4 +38,8 @@ color: #3b5998;
 
 .fa-youtube-square:hover{
     color: red;
+}
+
+.bg-rodape{
+    background-color:#7B68EE;
 }
